@@ -68,7 +68,7 @@ If you simply apply the default Chernarus setup:
 
 ## What this repository provides
 
-This repo exists to provide:
+This repo exists primarily to provide a unified config for my own map design and needs, however as this is dayz and as the desire to use all dayz assets within a build means that I would require at least all of said official map assets data in a single foundation of configs I am going to create that foundation of unified files, here. These default files in this repo will provide:
 
 - **Unified, de-duplicated configuration files**
 - A **single “true” master list** per file
@@ -95,6 +95,13 @@ This project may be:
 
 - Very useful to some
 - Of little or no use to others
+- may contain some configurations which work for my map build specifically
+- may possibly contain some asset configurations which you will want to modify for your use case.
+
+I will do my best to simply create a unified OFFICAL configs repo here
+and then pull this repo into an even more specific repo for my own map needs
+to be honest for most of these files within the dayz economy environments where we develop beyond the scope of dayz' official developments it is always 
+best to chain to additional customized configurations or overrides with your additional code / configs. 
 
 Both outcomes are acceptable.
 
