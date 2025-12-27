@@ -18230,7 +18230,7 @@
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
 							<category name="tools" />
-							<category nam e="containers" />
+							<category name="containers" />
 							<category name="clothes" />
 							<category name="food" />
 							<category name="weapons" />
